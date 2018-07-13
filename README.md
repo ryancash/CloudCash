@@ -122,6 +122,10 @@
 
 
 # 4. Reference
+
+>Pull Request를 이용한 개발 흐름의 적용 (후기)  
+https://blog.outsider.ne.kr/1199
+
 >Pro Git - 전반적인 git 학습  
 https://git-scm.com/book/ko/v2
 
@@ -133,9 +137,6 @@ https://backlog.com/git-tutorial/kr/
 
 >git 초보를 위한 pull request 방법  
 https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
-
->Pull Request를 이용한 개발 흐름의 적용  
-https://blog.outsider.ne.kr/1199
 
 >Git & GitHub Crash Course For Beginners  
 https://www.youtube.com/watch?v=SWYqp7iY_Tc
