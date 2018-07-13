@@ -66,6 +66,8 @@
 
 - $git log —branches —graph —decorate —oneline 명령으로 gui비슷하게 볼 수 있다.
 
+- $git config --global core.pager cat 명령으로 log와 diff를 cat으로 볼 수 있다.
+
 - 이전 버전으로 되돌아가는 방법 reset과 revert 차이는 여기서 확인
    - https://www.popit.kr/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-git-back-to-the-future/
 
